@@ -41,7 +41,7 @@ and project management and blockchain technology.
 #### Web & Mobile Development
 - HTML5, CSS3, JavaScript, jQuery, Prototype
 - C#, .NET, .NET Core, ASP.NET, Entity Framework
-- TypeScript, Angular.js, React.js, Node.js, Express.JS
+- TypeScript, Angular.js, React.js, Vue.js, Node.js, Express.JS
 - Python, Django, Flask, Odoo, FastAPI
 - Cloud, AWS, Cloudinary, AWS Amplify, Azure, Firebase
 - Laravel, CodeIgniter, CakePHP
