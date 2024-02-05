@@ -8,6 +8,24 @@ broad yet experienced skillset. Intuitive problem-solving skills and proficient 
 back-end development, mobile app development, system and application security, auditing
 and project management and blockchain technology.
 
+#### Web & Mobile Development
+- HTML5, CSS3, JavaScript, jQuery, Prototype
+- C#, .NET, .NET Core, ASP.NET, Entity Framework
+- TypeScript, Angular.js, React.js, Vue.js, Node.js, Express.JS
+- Python, Django, Flask, Odoo, FastAPI
+- Cloud, AWS, Cloudinary, AWS Amplify, Azure, Firebase
+- Laravel, CodeIgniter, CakePHP
+- GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
+- Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
+- Flutter, Dart, Xamarin, Ionic, React Native, Objective-C, Swift, SwiftUI, Kotlin
+
+#### Windows desktop app Development
+- C++
+- Windows API
+- Qt, pyQT
+- MFC
+- C#, .NET, .NET Core, WPF
+
 #### AI & ML
 - Tensor flow
 - Pandas
@@ -30,24 +48,6 @@ and project management and blockchain technology.
 - Unreal
 - GameFi
 - P2E
-  
-#### Windows desktop app Development
-- C++
-- Windows API
-- Qt, pyQT
-- MFC
-- C#, .NET, .NET Core, WPF
-
-#### Web & Mobile Development
-- HTML5, CSS3, JavaScript, jQuery, Prototype
-- C#, .NET, .NET Core, ASP.NET, Entity Framework
-- TypeScript, Angular.js, React.js, Vue.js, Node.js, Express.JS
-- Python, Django, Flask, Odoo, FastAPI
-- Cloud, AWS, Cloudinary, AWS Amplify, Azure, Firebase
-- Laravel, CodeIgniter, CakePHP
-- GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
-- Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
-- Flutter, Dart, Xamarin, Ionic, React Native, Objective-C, Swift, SwiftUI, Kotlin 
 
 ### :fire: My Stats :
 ![hoho9155's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoho9155&show_icons=true&theme=radical)
