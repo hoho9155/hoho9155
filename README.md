@@ -1,12 +1,12 @@
 ### Hello 👋
 
-I am a Senior Software Engineer.
-I have proven experiences with AI/ML/DL, Blockchain, GameFi, Game Development, Full-stack, Mobile & Desktop app development.
-
-Passionate about launching, developing, and maintaining web and mobile projects requiring a
-broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and
-back-end development, mobile app development, system and application security, auditing
-and project management and blockchain technology.
+I am a senior web developer with over 12 years of experience.
+Over the last 12 years, I have been developing lots of websites with Ruby on Rails, Python Django, .Net, Shopify and JavaScript.
+My core skills are listed below:
+Rails 3 ~ latest versions, Django, .Net, Shopify, HTML, CSS, javascript, typescript, jquery, CoffeeScript, haml, slim, less, media query, PSD to HTML, git, TDD/BDD, Redis sidekiq, risque delayed_job, Heroku, Amazon EC2, Amazon S3 Bucket, Digital Ocean, Nginx, passenger, unicorn, restful APIs, angular.js, ember.js, react.js, backbone.js, d3.js, bower, gulp, grunt...
+As you can see above, I am so familiar with all of the technologies related to backend and frontend, specially Rails and Shopify. I am looking for a long term job now.
+I am looking forward to hearing from you.
+Best Regards
 
 #### Web & Mobile Development
 - HTML5, CSS3, JavaScript, jQuery, Prototype
